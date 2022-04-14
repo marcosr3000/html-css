@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            /* Medidas absolutas
+            cm, mm, in, px, pt, pc
+
+            Medidas relativas
+            em, ex, rem, vw, vh, %
+            16px = 1em
+
+            */
+            font-size: 1em;
+            font-weight: bolder;
+            font-style: italic;
+            text-decoration: underline;
+            /* lighter normal bold bolder */
+        }
+
+        h1 {
+            /* shorthand font
+            - font-style -> font-weight -> font-size -> font-family
+
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bolder;
+            font-size: 4em;
+            font-style: italic;
+             */
+
+            font: italic bolder 3em Arial, Helvetica, sans-serif;
+        }
+
+        h2 {
+            font: bold 2em Arial
+        }
+    </style>
+</head>
+<body>
+    <H1>Trabalhando com fontes</H1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem sed culpa maiores inventore mollitia officia odit. Explicabo accusamus possimus, voluptate optio magnam quia, odit iure veritatis, commodi delectus fugit unde? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores ad quas quasi, neque id ea? Possimus provident enim at maiores laborum rerum voluptas, ipsum, repudiandae pariatur dolor, velit debitis. Quae!</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis laboriosam hic eum magni aliquam omnis. Molestias labore, possimus autem eius similique tempora, nesciunt distinctio dolore architecto voluptates, excepturi quam vitae.</p>
+
+    <h2>Subtítulo do exercício</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At, temporibus nisi molestias sit inventore natus quod veritatis, nihil perspiciatis numquam sequi rem quo corrupti, error consectetur. Odit veniam provident sapiente!</p>
+</body>
+</html>
