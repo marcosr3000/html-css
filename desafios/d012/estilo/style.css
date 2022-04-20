@@ -12,16 +12,15 @@
 html, body {
     background-color: darkgrey;
     min-height: 100vh;
+    font-family: var(--fonte-outra);
 }
 
 :root {
     --fonte-padrao: 'Sriracha', cursive;
     --fonte-destaque: 'Passion One', cursive;
-    --fonte-outra: Verdana, Arial, Helvetica, sans-serif;
+    --fonte-outra: Verdana, Geneva, Tahoma, sans-serif;
 }
 header {  
-    height: 250px;
-    width: 100%;
     background-color: black;
     color: white;
     text-align: center;
@@ -29,13 +28,12 @@ header {
 header h1 {
     padding-top: 50px;
     font-family: var(--fonte-destaque);          
-    font-size: 20vh;
+    font-size: 10vw;
     font-variant: small-caps;
     
 }
 header > p {
     padding-bottom: 50px;
-    font-family: var(--fonte-outra);
 
 }
 header a, footer a {
@@ -48,7 +46,7 @@ header a:hover, footer a:hover {
 }
 section {
     font-family: var(--fonte-padrao);
-    font-size: 8vh;
+    font-size: 3.5vw;
     font-weight: 100;
     padding-top: 10vh;
     padding-bottom: 10vh;
@@ -56,9 +54,12 @@ section {
     line-height: 2em;
     
 }
+
 section p {
-    margin-left: 50px;
+    padding-bottom: 2em;
 }
+
+
 section.somente-texto {
     background-color: white;
     color: black;
@@ -69,12 +70,14 @@ section.texto-imagem {
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
 }
 section.texto-imagem p {
     background-color: rgba(0, 0, 0, 0.253);
-    width: fit-content;
+    display: inline-block;
+    padding: 5px;
     color: white;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 1px 1px 0px black;
 }
 section#img01 {
     background-image: url(../imagens/background001.jpg);
