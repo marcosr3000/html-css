@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 1.5em;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 800px;
+        }
+
+        tr, th, td {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: center;
+        }
+
+        .cabecalho {
+            background-color: gray;
+            color: white;
+        }
+
+        .areas {
+            background-color: white;
+            color: black;
+        }
+
+        .disciplinas {
+            text-align: left;
+        }
+
+        .linha-medias {
+            background-color: gray;
+            color: white;
+        }
+
+        .rotulo-medias {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr class="cabecalho">
+                <th rowspan="2">
+                    Área
+                </th>
+                <th rowspan="2">
+                    Disciplinas
+                </th>
+                <th colspan="2" scope="colgroup">
+                    Notas
+                </th>
+                <th rowspan="2">
+                    Média
+                </th>
+            </tr>
+            <tr class="cabecalho">
+                <th>
+                    Nota 1
+                </th>
+                <th>
+                    Nota 2
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th class="areas" rowspan="4" scope="rowgroup">
+                    Exatas
+                </th>
+                <td class="disciplinas">
+                    Matemática
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+            </tr>
+            <tr>
+                <td class="disciplinas">
+                    Física
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+            </tr>
+            <tr>
+                <td class="disciplinas">
+                    Química
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+            </tr>
+            <tr>
+                <td class="disciplinas">
+                    Biologia
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+            </tr>
+            <tr class="linha-medias">
+                <th class="rotulo-medias" colspan="4">
+                    Média de Exatas
+                </th>
+                <td>
+                    0.0
+                </td>
+            </tr>
+            <tr>
+                <th class="areas" rowspan="2" scope="rowgroup">
+                    Humanas
+                </th>
+                <td class="disciplinas">
+                    História
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+            </tr>
+            <tr>
+                <td class="disciplinas">
+                    Geografia
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+                <td>
+                    0.0
+                </td>
+            </tr>
+            <tr class="linha-medias">
+                <th class="rotulo-medias" colspan="4">
+                    Média de Humanas
+                </th>
+                <td>
+                    0.0
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
