@@ -14,19 +14,22 @@ Course available on **YouTube** 📺<br>
 
 <br>
 
-<img style="box-shadow: 1px 1px 5px black" src="https://github.com/marcosr3000/html-css_exercicios_desafios/blob/main/desafios/d010_android/imagens/android-thumb.gif?raw=true" alt="Miniatura do Artigo Android">
+[<img style="box-shadow: 1px 1px 5px black" src="https://github.com/marcosr3000/html-css_exercicios_desafios/blob/main/desafios/d010_android/imagens/android-thumb.gif?raw=true" alt="Miniatura do Artigo Android">](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d010_android/android2.html)
+
+This is an article from an imaginary website that provides news about technology. I worked with semanthic HTML, responsive design, CSS variables, lists and Iframes.
 
 ##
 
 
 
-### 🔖 Cordel Moderno
+### 🔖 Mordern Cordel
 [Repository](https://github.com/marcosr3000/html-css_exercicios_desafios/tree/main/desafios/d012_cordel_moderno) | [Web Page](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d012_cordel_moderno/)
 
 <br>
 
-<img style="box-shadow: 1px 1px 5px black" src="https://github.com/marcosr3000/html-css_exercicios_desafios/blob/main/desafios/d012_cordel_moderno/imagens/cordel-thumb.gif?raw=true" alt="Miniatura do Site Cordel Moderno">
+[<img style="box-shadow: 1px 1px 5px black" src="https://github.com/marcosr3000/html-css_exercicios_desafios/blob/main/desafios/d012_cordel_moderno/imagens/cordel-thumb.gif?raw=true" alt="Miniatura do Site Cordel Moderno">](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d012_cordel_moderno/)
 
+Cordel is a brazilian way to exhibit poems. The poems hang on a string. A modern cordel is a digital exhibition. In this project I worked with semanthic HTML, CSS viewport measures and parallax effect on the background.
 
 
 ##
