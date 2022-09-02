@@ -9,34 +9,34 @@ Course available on **YouTube** 📺<br>
 
 ## 🔆 Repository's highlights
 
-### 🤖 Android Article
-[Repository](https://github.com/marcosr3000/html-css_exercicios_desafios/tree/main/desafios/d010_android) | [Web Page](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d010_android/android2.html)
+
+### 📱 Social Medias Project
+[Repository](https://github.com/marcosr3000/html-css_exercicios_desafios/tree/main/desafios/d015_projeto_social) | [Web Page](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d015_projeto_social/)
 
 <br>
 
-[<img style="box-shadow: 1px 1px 5px black" src="https://github.com/marcosr3000/html-css_exercicios_desafios/blob/main/desafios/d010_android/imagens/android-thumb.gif?raw=true" alt="Miniatura do Artigo Android">](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d010_android/android2.html)
+[<img style="box-shadow: 1px 1px 5px black" src="https://github.com/marcosr3000/html-css_exercicios_desafios/blob/main/desafios/d015_projeto_social/imagens/social-thumb.gif?raw=true" alt="Social Medias project thumbnail">](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d015_projeto_social/)
 
-This is an article from an imaginary website that provides news about technology. I worked with semanthic HTML, responsive design, CSS variables, lists and Iframes.
+This web page contains links to my social medias shown in a mocked up mobile phone screen. I worked with iframes, responsive design, CSS transitions and animations.
 
 ##
-
-
 
 ### 🔖 Mordern Cordel
 [Repository](https://github.com/marcosr3000/html-css_exercicios_desafios/tree/main/desafios/d012_cordel_moderno) | [Web Page](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d012_cordel_moderno/)
 
 <br>
 
-[<img style="box-shadow: 1px 1px 5px black" src="https://github.com/marcosr3000/html-css_exercicios_desafios/blob/main/desafios/d012_cordel_moderno/imagens/cordel-thumb.gif?raw=true" alt="Miniatura do Site Cordel Moderno">](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d012_cordel_moderno/)
+[<img style="box-shadow: 1px 1px 5px black" src="https://github.com/marcosr3000/html-css_exercicios_desafios/blob/main/desafios/d012_cordel_moderno/imagens/cordel-thumb.gif?raw=true" alt="Modern Cordel thumbnail">](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d012_cordel_moderno/)
 
 Cordel is a brazilian way to exhibit poems. The poems hang on a string. A modern cordel is a digital exhibition. In this project I worked with semanthic HTML, CSS viewport measures and parallax effect on the background.
 
-
 ##
 
-### 📱 Social Medias Project
-[Repository](https://github.com/marcosr3000/html-css_exercicios_desafios/tree/main/desafios/d015_projeto_social) | [Web Page](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d015_projeto_social/)
+### 🤖 Android Article
+[Repository](https://github.com/marcosr3000/html-css_exercicios_desafios/tree/main/desafios/d010_android) | [Web Page](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d010_android/android2.html)
 
+<br>
 
+[<img style="box-shadow: 1px 1px 5px black" src="https://github.com/marcosr3000/html-css_exercicios_desafios/blob/main/desafios/d010_android/imagens/android-thumb.gif?raw=true" alt="Android article thumbnail">](https://marcosr3000.github.io/html-css_exercicios_desafios/desafios/d010_android/android2.html)
 
-
+This is an article from an imaginary website that provides news about technology. I worked with semanthic HTML, responsive design, CSS variables, lists and iframes.
